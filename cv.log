@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.22)  18 SEP 2023 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.22)  30 AUG 2024 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -154,39 +154,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--30
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--41
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--41
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--59
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--59
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--69
+Underfull \hbox (badness 10000) in paragraph at lines 35--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
 
  []
 
 [1
 
 {/usr/local/texlive/2022basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+
+Overfull \hbox (1.50883pt too wide) in paragraph at lines 78--79
+\OT1/cmr/m/n/10 tion-ary con-se-quences of nascent mul-ti-cel-lu-lar life cy-cl
+es, \OT1/cmr/m/it/10 eLife\OT1/cmr/m/n/10 , 2023. https://doi.org/10.7554/eLife
+.84336 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Overfull \hbox (33.96327pt too wide) in paragraph at lines 80--81
+\OT1/cmr/m/n/10 on the Amoeba Mi-cro-biota, \OT1/cmr/m/it/10 Ap-plied and En-vi
+-ron-men-tal Mi-cro-bi-ol-ogy\OT1/cmr/m/n/10 , 2022. https://doi.org/10.1128/ae
+m.01285-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
@@ -197,82 +236,98 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.81 \textbf
-            {Graduate Teaching Assistantship}\\
+l.86 \textbf
+            {Graduate Teaching Assistant, Foundations of Modern Biology} \hf...
+
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--94
+Underfull \hbox (badness 10000) in paragraph at lines 86--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--94
+Underfull \hbox (badness 10000) in paragraph at lines 86--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 86--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 86--105
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Overfull \hbox (0.47702pt too wide) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
+
+ []
+
+
+Overfull \hbox (0.47702pt too wide) in paragraph at lines 108--136
 \OT1/cmr/bx/n/10 James G. Du-Bose\OT1/cmr/m/n/10 , Hunter Olsen, Tamara S. Hase
 lkorn. \OT1/cmr/m/it/10 Preva-lence and Ge-netic Di-ver-sity of the Burkholde-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--123
+Underfull \hbox (badness 10000) in paragraph at lines 108--136
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 126--138
+Underfull \hbox (badness 10000) in paragraph at lines 139--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--138
+Underfull \hbox (badness 10000) in paragraph at lines 139--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--138
+Underfull \hbox (badness 10000) in paragraph at lines 139--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--155
 
  []
 
@@ -283,52 +338,51 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.143 \textbf
-             {Development of Programming Education Resources for Historicall...
-
+l.160 \textbf
+             {US Fish and Wildlife Service Monarch Butterfly Festival}\\
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--156
+Underfull \hbox (badness 10000) in paragraph at lines 160--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--156
+Underfull \hbox (badness 10000) in paragraph at lines 160--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--156
+Underfull \hbox (badness 10000) in paragraph at lines 160--177
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--156
+Underfull \hbox (badness 10000) in paragraph at lines 160--177
 
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
+Underfull \hbox (badness 10000) in paragraph at lines 180--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
+Underfull \hbox (badness 10000) in paragraph at lines 180--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
+Underfull \hbox (badness 10000) in paragraph at lines 180--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
+Underfull \hbox (badness 10000) in paragraph at lines 180--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--173
+Underfull \hbox (badness 10000) in paragraph at lines 180--194
 
  []
 
@@ -339,32 +393,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.191 \end{multicols}
+l.212 \end{multicols}
                      
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.191 \end{multicols}
+l.212 \end{multicols}
                      
 ? 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 177--193
+Underfull \hbox (badness 10000) in paragraph at lines 198--214
 
  []
 
@@ -376,7 +430,7 @@ Here is how much of TeX's memory you used:
  19768 multiletter control sequences out of 15000+600000
  470845 words of font info for 33 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 55i,5n,62p,495b,162s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,5n,62p,495b,113s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/gabe/Library/texlive/2022basic/texmf-var/fonts/pk/ljfo
 ur/jknappen/ec/tcrm1000.600pk></usr/local/texlive/2022basic/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022basic/texmf-dist/font
@@ -384,7 +438,7 @@ s/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022basic/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022basic/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022basic/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv.pdf (4 pages, 97606 bytes).
+Output written on cv.pdf (4 pages, 97354 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
